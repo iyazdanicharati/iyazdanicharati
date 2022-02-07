@@ -3,23 +3,16 @@
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/iyazdanicharati">
-    <img align="left" alt="iyazdanicharati" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/linkedin-6-xl.png" />
+    <img alt="iyazdanicharati" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/linkedin-6-xl.png" />
   </a>
   <a href="https://instagram.com/iyazdanicharati">
-    <img align="left" alt="iyazdanicharati" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/instagram-xl.png" />
+    <img alt="iyazdanicharati" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/instagram-xl.png" />
   </a>
    <a href="mailto:iyazdanicharati@gmail.com">
-    <img align="left" alt="iyazdanicharati" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/email-12-xl.png" />
+    <img alt="iyazdanicharati" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/email-12-xl.png" />
   </a>
 </div>
 <br>
-<br>
-
-<div>
-  
-  [![iyazdanicharati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyazdanicharati&show_icons=true&include_all_commits=true&theme=algolia&count_private=true&line_height=30)](https://github.com/iyazdanicharati)
-  [![iyazdanicharati' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyazdanicharati&langs_count=5&theme=algolia&exclude_repo=SocketCpp,iyazdanicharati.github.io,DeveloperSite)](https://github.com/iyazdanicharati)
-</div>
 
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=Laravel)
