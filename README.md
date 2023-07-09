@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Iman Yazdani Charati</h1>
+  <h1>Iman Yazdani Cherati</h1>
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/iyazdanicherati">
+  <a href="https://www.linkedin.com/in/iyazdanicharati">
     <img alt="iyazdanicharati" width="22px" src="https://www.iconsdb.com/icons/preview/color/4DA0FF/linkedin-6-xl.png" />
   </a>
   <a href="https://instagram.com/iyazdanicharati">
