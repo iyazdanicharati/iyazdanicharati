@@ -2,9 +2,9 @@
 
 # Hi, I'm Iman Yazdani Cherati 👋
 
-### Full-Stack Developer · PHP & Laravel · Vue.js
+### Full-Stack · Mobile · UI/UX Developer
 
-Building clean web apps, payment flows, and practical tools people actually use.
+PHP ecosystems, modern JS frameworks, native & cross-platform apps — with a strong eye for design.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iyazdanicharati)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iyazdanicharati)
@@ -17,55 +17,79 @@ Building clean web apps, payment flows, and practical tools people actually use.
 
 ### 🧑‍💻 About me
 
-- 💻 Full-stack developer focused on **PHP**, **Laravel**, and **Vue.js**
-- 🧩 Interested in clean architecture, solid APIs, and smooth UX
-- 🚀 Building and shipping real-world web products & payment systems
-- 🌱 Always learning — better code, better tools, better delivery
+- 💻 Full-stack developer across **PHP**, **JavaScript**, and **mobile** stacks
+- 🎨 CSS designer · **UI/UX** · **Figma**
+- 📱 Android & **React Native** apps
+- 🚀 Shipping web products, payment systems, and practical tools
+- 🐍 Exploring **Python** (amateur) alongside daily production work
 - ☕ Support my work: **[Buy me a coffee](https://iyazdani.ir/donate)**
 
 ---
 
 ### 🛠️ Tech stack
 
-**Backend**
+**Backend & PHP**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP Native](https://img.shields.io/badge/PHP%20Native-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white)
+![Java Spring](https://img.shields.io/badge/Java%20Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20(amateur)-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20Designer-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Tools**
+**Mobile & Desktop**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**UI / UX & Design**
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF7262?style=flat-square&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Build & Tools**
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Laravel Mix](https://img.shields.io/badge/Laravel%20Mix-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ### 📊 GitHub stats
 
-<!-- Replace USERNAME with your GitHub username if different -->
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iyazdanicharati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyazdanicharati&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iyazdanicharati&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iyazdanicharati&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" width="420" alt="GitHub stats of iyazdanicharati" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyazdanicharati&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" width="420" alt="Top languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iyazdanicharati&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" width="420" alt="GitHub streak" />
+</div>
 
 ---
 
 ### ☕ Support
 
-If my work or open-source contributions help you, you can buy me a coffee:
+If my work helps you, you can buy me a coffee:
 
 **→ [https://iyazdani.ir/donate](https://iyazdani.ir/donate)**
 
